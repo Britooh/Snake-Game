@@ -1,2 +1,2 @@
 # Juego de la culebrita
-Parcial 2
+Alan y Delio lo ma mejore
