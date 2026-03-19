@@ -1,2 +1,2 @@
-# Snake-Game
+# Juego de la culebrita
 Parcial 2
