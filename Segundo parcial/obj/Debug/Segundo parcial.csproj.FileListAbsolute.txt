@@ -1,0 +1,11 @@
+C:\Users\PC1\source\repos\Segundo parcial\Segundo parcial\bin\Debug\Segundo parcial.exe.config
+C:\Users\PC1\source\repos\Segundo parcial\Segundo parcial\bin\Debug\Segundo parcial.exe
+C:\Users\PC1\source\repos\Segundo parcial\Segundo parcial\bin\Debug\Segundo parcial.pdb
+C:\Users\PC1\source\repos\Segundo parcial\Segundo parcial\obj\Debug\Segundo parcial.csproj.AssemblyReference.cache
+C:\Users\PC1\source\repos\Segundo parcial\Segundo parcial\obj\Debug\Segundo_parcial.Form1.resources
+C:\Users\PC1\source\repos\Segundo parcial\Segundo parcial\obj\Debug\Segundo_parcial.Properties.Resources.resources
+C:\Users\PC1\source\repos\Segundo parcial\Segundo parcial\obj\Debug\Segundo parcial.csproj.GenerateResource.cache
+C:\Users\PC1\source\repos\Segundo parcial\Segundo parcial\obj\Debug\Segundo parcial.csproj.CoreCompileInputs.cache
+C:\Users\PC1\source\repos\Segundo parcial\Segundo parcial\obj\Debug\Segundo parcial.exe
+C:\Users\PC1\source\repos\Segundo parcial\Segundo parcial\obj\Debug\Segundo parcial.pdb
+C:\Users\PC1\source\repos\Segundo parcial\Segundo parcial\obj\Debug\Segundo parcial.exe.config
